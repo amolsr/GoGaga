@@ -17,7 +17,7 @@ module.exports = {
     //   description: 'Testing server'
     // },
     {
-        url: 'https://gogaga.herokuapp.com/',
+        url: 'https://go-gaga-app.herokuapp.com/',
         description: 'Production server'
     }
     ],
